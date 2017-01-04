@@ -1,4 +1,4 @@
 <?php 
 	echo 'Current PHP version: ' . phpversion(); 
-	echo 'Welcome Home...'
+	echo '\nWelcome Home...'
 ?>
