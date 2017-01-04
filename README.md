@@ -7,7 +7,7 @@ Procfile is configured using 1 single (free) nginx dyno
 ### How-to deploy that ?
 ``` bash
 git add .
-git commit -am "welcome home"
+git commit -am "A relevant description"
 git push -u origin master
 heroku logs --tail
 ```
