@@ -19,6 +19,7 @@ Pushing on github master branch triggers deploying on heroku
 git remote -v
 ```
 currently lists heroku git and that github
+both branches live separatly (need to push or 1 or the other) but a heroku deploy is triggered when anything is pushed in any of these
 
 #### Sources
 - https://devcenter.heroku.com/articles/deploying-php
