@@ -23,3 +23,4 @@ currently lists heroku git and that github
 #### Sources
 - https://devcenter.heroku.com/articles/deploying-php
 - https://devcenter.heroku.com/articles/php-support#selecting-a-runtime
+- https://help.github.com/articles/caching-your-github-password-in-git/#platform-linux
